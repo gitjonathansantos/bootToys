@@ -1,0 +1,25 @@
+<div class="container">
+  <div class="row">
+    <div class="col-lg-7">
+      <h5>Engage in Engineering!</h5>
+<p>Engineering is not an easy major. Yet, the UA College of Engineering has a 91-percent first-year retention rate, far higher than the national average. We pair some of our best instructors with freshmen; provide hands-on, interactive learning; and offer a number of advising, tutoring and mentoring services.</p>
+
+<p>
+<span class="blueButton">
+<a href="http://engineering.arizona.edu/engin33ring_build/undergrad.html#">More on Student Services ></a>
+</span>
+</p>
+
+      </div>
+
+    <div class="col-lg-5"><center><h4>Student Life</h4></center>
+<div class="rightButtonStackLinks"><a href="#">Internships</a></div>
+<div class="rightButtonStackLinks"><a href="#">Clubs & Organizations</a></div>
+<div class="rightButtonStackLinks"><a href="#">Research Opportunities</a></div>
+<div class="rightButtonStackLinks"><a href="#">Residential Living</a></div>
+    </div>
+    
+
+    </div>
+  </div>
+</div>
