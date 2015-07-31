@@ -1,0 +1,53 @@
+<div class="container">
+     <div class="row">
+     
+      <h1 style="font-family: MiloSerifOT-Regular; font-size: 40px;  color: rgb(0, 72, 83); text-align: center; font-weight: normal;"><span style="font-weight: bold;"></span>Student Perspectives</h1>
+     
+     
+         <div class="col-md-3 "><p>
+         
+          <div id="QuoteOdd">
+     <p><img width="158" height="158" class="quoteImage" name="" alt="Leah Kaplan, honors student"  src="http://placehold.it/350x150"></p>
+     <p>"The best part of my experience has been my interactions with the faculty. I am so inspired by the level of passion that my professors bring to the classroom."</p>
+     <p class="quoteCredit"><span style="font-weight: bold">Leah Kaplan</span><strong>,</strong> <em>honors student</em><br>
+<br>
+<br>
+     </p>
+     <p class="quoteCredit">&nbsp;</p>
+</div>
+         
+         </p></div>
+         <div class="col-md-3 "><p>
+          <div id="QuoteEven">
+     <p><img width="158" height="158" class="quoteImage" name="" alt="Victoria Lantzy, freshman"  src="http://placehold.it/350x150"></p>
+     <p>"The UA has delivered on the ‘Big School’ experience with its many sporting events, while also maintaining a close-knit community in the College of Engineering. There are so many people here truly committed to my success."</p>
+     <p class="quoteCredit"><span style="font-weight: bold"><strong>Victoria Lantzy</strong></span><strong>, </strong><em>freshman</em><br>
+<br>
+     </p>
+</div>
+         </p></div>
+         <div class="col-md-3  hidden-sm hidden-xs">
+          <p class="hidden-sm hidden-xs">
+          <div id="QuoteOdd">
+<p><img width="158" height="158" class="quoteImage" name="" alt="Peter Mather, Stantec Consulting Services intern"  src="http://placehold.it/350x150"></p>
+       <p>"I was working with senior engineers and professional geologists with 30 years of experience. I landed what I considered the perfect internship. Every hour of my work was put to use to benefit a project."</p>
+<p class="quoteCredit"><span style="font-weight: bold">Peter Mather,</span> <em>Stantec <br> Consulting Services intern</em></p>
+</div>
+         
+          </p>
+         </div>
+         <div class="col-md-3  hidden-sm hidden-xs"><p class="hidden-sm hidden-xs">
+         
+          <div id="QuoteEven">
+<p><img width="158" height="158" class="quoteImage" name="" alt="Justin Ofett, recent ECE graduate 
+now at Lockheed Martin"  src="http://placehold.it/350x150"></p>
+<p>"The class was fascinating because we were not just writing computer code. 
+We went from the initial design all the way through 
+the different processes and analytics of software engineering to the 
+finished product."</p>
+<p class="quoteCredit"><span style="font-weight: bold">Justin Ofett,</span> r<em>ecent ECE graduate <br>
+now at Lockheed Martin</em></p>
+</div>
+  </p></div>
+     </div>
+</div>
