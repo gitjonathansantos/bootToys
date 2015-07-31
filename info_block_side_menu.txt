@@ -1,0 +1,125 @@
+<div class="container">
+      <div  class="col-md-12 program-description">
+      <h1 style="font-family: MiloSerifOT-Regular; font-size: 40px; line-height: 48px; color: rgb(0, 72, 83); text-align: center; font-weight: normal;"><span style="font-weight: bold;">13</span>&nbsp;Undergraduate Programs &amp; Degrees</h1>
+        <div class="col-md-9 col-sm-12 col-sm-12 col-xs-12 "style="background-image: url(http://tumbler.engr.arizona.edu/sites/default/files/images/interactive/optsci_background.jpg);">
+          <!-- Tab panes -->
+          <div class="tab-content">
+            <div class="tab-pane active" id="home-aero">
+            <em class="taglineContent">Improve the Leo</em><br>
+            <em class="TitleContent">Aerospace Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">Airplanes, rockets, satellites and spacecraft: Solve problems in flight and space exploration. Immerse yourself in thermodynamics, fluid mechanics, solid mechanics, aerodynamics, gas dynamics and control system design. And check out the UA College of Engineering&rsquo;s supersonic wind tunnel!</em>  
+            <br><br><span class="whiteProgramButton"><a href="#">UA Aerospace Engineering</a></span>          
+            </div>
+            
+            <div class="tab-pane" id="home-bio">
+            <em class="taglineContent">Change the Practice of Medicine</em><br>
+            <em class="TitleContent">Biomedical Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">Join the biomedical revolution! This highly interdisciplinary, approved pre-med program includes biomaterials, biomechanics, biosensors and microtechnologies. Use your know-how in engineering, medicine and biological sciences to advance telemedicine and improve medical diagnostics, treatment and therapy.</em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Biomedical Engineering</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-biosys">
+            <em class="taglineContent">Make the Most of the World’s Natural Resources</em><br>
+            <em class="TitleContent">Biosystems Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">Gain a deeper understanding of agriculture and biology -- knowledge that will help feed the world and someday may be used to design life support systems for colonies on other planets. Students in UA biosystems engineering combine technical knowledge, computer techniques and control systems to manage soil and water resources and develop biological and biomedical products. Work on projects involving wise use of energy, materials, biochemicals and recyclable wastes.</em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Biosystems Engineering</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-chee">
+            <em class="taglineContent">Make Today’s Raw Materials Tomorrow’s Products</em><br>
+            <em class="TitleContent">Chemical Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">Sustainability is a key driver of invention at the University of Arizona. In UA chemical engineering, apply emerging technologies in chemistry, math and physics to design and manufacture better consumer products, increase food production, and produce cleaner water and air. Hands-on experience and interactive classes in environmental, premedical and biomedical focus areas prepare you for success in private industry and with public agencies.</em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Chemical Engineering</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-civ">
+            <em class="taglineContent">Build the Road to Progress</em><br>
+            <em class="TitleContent">Civil Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">If you want to build sustainable, resilient cities and infrastructures, University of Arizona civil engineering is the place for you. Learn to design and construct buildings, roads, bridges, dams, tunnels, and power plants that can withstand earthquakes and other disasters. Focus on structural, geotechnical, transportation, or hydraulics and environmental civil engineering to hone your skills for the workforce.</em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Civil Engineering</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-ece">
+            <em class="taglineContent">Advance High-Tech Devices</em><br>
+            <em class="TitleContent">Electrical and Computer Engineering </em><br><br>
+            <em class="TabbedPanelsContentVisible">Every technological device we rely on - cell phones, laptops, automobiles, medical imaging and power plants - depends on electrical and computer engineers. In the University of Arizona electrical and computer engineering program, you gain a solid foundation in analytical thinking and problem solving (and robot creation!). Delve into circuit design, power systems, mechatronics and electromagnetics or focus on software and operating system design and wireless communications.</em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Electrical and Computer Engineering</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-em">
+            <em class="taglineContent">Improve the Business of High Technology</em><br>
+            <em class="TitleContent">Engineering Management </em><br><br>
+            <em class="TabbedPanelsContentVisible">Combine your love of engineering and business in the University of Arizona engineering management program. Get set to launch your own high-tech firm. Or prepare to work in quality engineering, technical sales and marketing, project and construction management, or reliability engineering - with some of the world’s top companies.</em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Engineering Management</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-sie">
+            <em class="taglineContent">Making Engineers’ Creations Even Better</em><br>
+            <em class="TitleContent">Industrial Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">From manufacturing smartphones and cars to streamlining hospital operations to shortening the line at a roller coaster ride, efficiency is key. In the University of Arizona industrial engineering program, learn to combine engineering, business and social science skills to improve production planning, quality assurance, facility planning and information management. </em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Industrial Engineering</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-mse">
+            <em class="taglineContent">Transform Materials that Make Technology Possible</em><br>
+            <em class="TitleContent">Biosystems Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">Work at atomic and molecular levels to achieve globally significant results. In the University of Arizona materials science and engineering program, students work with glass, ceramics, plastics, polymers, composites, metals and other materials to create the devices and systems essential for solar energy production, information technology and medicine. From integrated circuits and chip carriers to turbine engines and optical waveguides, become an expert in materials properties, failure analysis, manufacturing techniques and quality assurance. </em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Biosystems Engineering</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-me">
+            <em class="taglineContent">Take Machines from Idea to Marketplace</em><br>
+            <em class="TitleContent">Mechanical Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">From biomorphic tissues to solar energy systems, mechanical engineering is one of the broadest engineering disciplines. Use math, computational tools and the laws of physics to design automobile parts, biomedical systems, robots, machine tools and more. Steeped in hands-on problem solving and team activities, University of Arizona mechanical engineering courses focus on solid and fluid mechanics, thermal sciences, dynamics and controls, and mechanical design. </em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Mechanical Engineering</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-mge">
+            <em class="taglineContent">Access the World’s Natural Resources, Safely and Sustainably</em><br>
+            <em class="TitleContent">Mining Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">Put on your hard hat and head down 150 feet into the University of Arizona’s San Xavier mine, the only student-run multi-level mine in the United States with a working vertical shaft. Drill deep into your mining interests with focus areas in mine operations, geomechanics, sustainable resource development and mineral processing. Expand your skills interning with a top mining company, and look forward to graduating from a program that boasts 100-percent job placement.</em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Mining Engineering</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-optisci">
+            <em class="taglineContent">Put Light to New Uses</em><br>
+            <em class="TitleContent">Optical Science & Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">Work side-by-side with experienced professionals at the University of Arizona on projects like the Giant Magellan Telescope and OSIRIS-REx, an unmanned space probe that will launch in 2016, land on an asteroid and return to Earth with a material sample. Four focus areas – optics, optoelectronics, optical materials and optomechanics – are geared to industry needs and filling the pipeline with work-ready UA College of Engineering students and alumni.</em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Optical Sciences and Engineering</a></span> 
+            </div>
+            
+            <div class="tab-pane" id="home-systems">
+            <em class="taglineContent">Improve Health Care, Transportation, Defense and Space Systems</em><br>
+            <em class="TitleContent">Systems Engineering</em><br><br>
+            <em class="TabbedPanelsContentVisible">Established in 1961 as the nation’s first systems engineering academic department, UA systems engineering operates on the premise that to work effectively and beneficially, large, complex systems must be designed not only with imagination and technical skill but with rigorous attention to the design process and interactions among system components (machines, people, software, hardware, materials, and energy), other systems and society. Courses in probability and statistics, system theory, decision analysis and simulation prepare students for careers in private industry and with public agencies.</em>            
+            <br><br><span class="whiteProgramButton"><a href="#">UA Systems Engineering</a></span> 
+            </div>
+            
+            
+            
+            <div class="tab-pane" id="settings-r">
+            
+            </div>
+          </div>
+        </div>
+        <div class="tab-contentcol-md-3 hidden-md hidden-sm  hidden-xs "style="background-image: url(http://tumbler.engr.arizona.edu/sites/default/files/images/interactive/burst_background.png);"> <!-- required for floating -->
+          <!-- Nav tabs -->
+          <ul class="nav nav-tabs tabs-right">
+            <li class="active TabbedPanelsCatagoryTitle"><a href="#home-aero" data-toggle="tab">Aerospace Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-bio" data-toggle="tab">Biomedical Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-biosys" data-toggle="tab">Biosystems Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-chee" data-toggle="tab">Chemical Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-civ" data-toggle="tab">Civil Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-ece" data-toggle="tab">Electrical and Computer Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-em" data-toggle="tab">Engineering Management</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-sie" data-toggle="tab">Industrial Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-mse" data-toggle="tab">Materials Science and Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-me" data-toggle="tab">Mechanical Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-mge" data-toggle="tab">Mining Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-optisci" data-toggle="tab">Optical Science and Engineering</a></li>
+            <li class="TabbedPanelsCatagoryTitle"><a href="#home-systems" data-toggle="tab">Systems Engineering</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+</div>
